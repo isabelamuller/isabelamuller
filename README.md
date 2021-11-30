@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamuller&layout=compact)](https://github.com/isabelamuller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamuller)](https://github.com/isabelamuller/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isabelamuller&repo=github-readme-stats)](https://github.com/isabelamuller/github-readme-stats)
+
 
 
 <!---
