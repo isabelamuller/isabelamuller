@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamuller)](https://github.com/isabelamuller/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelamuller&show_icons=true&theme=dracula)
 
 
 
