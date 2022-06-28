@@ -10,7 +10,7 @@
 📓 studying Software Analysis and Development at UNISINOS <br>
 🤩 focusing on Java and JavaScipt <br>
 ✨ exploring not only back-end languages but also front-end ones! <br>
-🌞 she/her  <br> <br> <br>
+🌞 she/her  <br> <br> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamuller)](https://github.com/isabelamuller/github-readme-stats)
 
