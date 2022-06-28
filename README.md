@@ -5,7 +5,7 @@
 🌞 ela/dela  <br>
 <br>
 ───── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ─────
-<br>
+<br><br>
 🇬🇧 hey, I'm Isa! <br>
 📓 studying Software Analysis and Development at UNISINOS <br>
 🤩 focusing on Java and JavaScipt <br>
