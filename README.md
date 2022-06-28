@@ -3,7 +3,9 @@
 🤩 focando em Java e JavaScript <br> 
 ✨ explorando tanto back-end quanto front-end! <br>
 🌞 ela/dela  <br>
-
+<br>
+───── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ─────
+<br>
 🇬🇧 hey, I'm Isa! <br>
 📓 studying Software Analysis and Development at UNISINOS <br>
 🤩 focusing on Java and JavaScipt <br>
