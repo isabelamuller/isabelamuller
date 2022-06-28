@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamuller)](https://github.com/isabelamuller/github-readme-stats)
 
-![](https://raw.githubusercontent.com/isabelamullerr/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username=isabelamuller/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!---
 isabelamuller/isabelamuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
