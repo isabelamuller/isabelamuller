@@ -7,7 +7,7 @@
 🏷 ela/dela  <br>
 <br>
 ───── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ──────────
-<br>0
+<br>
 # 👋🏻 hey, I'm Isa! 
 📓 studying Software Analysis and Development at UNISINOS <br>
 🎯 focusing on Java and JavaScipt, but enjoying Java a lot more! <br>
