@@ -1,7 +1,7 @@
 # 👋🏻 oie, eu sou a Isa! 
 📓 estudando Análise e Desenvolvimento de Sistemas na UNISINOS <br>
-🎯 focando em Java e JavaScript, mas gostando muito mais de Java! <br> 
-✨ explorando tanto back-end quanto front-end (mas também gostando mais de back hehe). <br>
+🎯 focando em Java e Spring Boot! <br> 
+✨ explorando tanto back-end quanto front-end (mas gostando mais de back hehe). <br>
 💗 alguns dos meus hobbies são estudar, sair com meus amigos, skincare, jardinagem e moda! <br>
 📩 e-mail: isabelamuller1@hotmail.com <br>
 🏷 ela/dela  <br>
@@ -10,7 +10,7 @@
 <br>
 # 👋🏻 hey, I'm Isa! 
 📓 studying Software Analysis and Development at UNISINOS <br>
-🎯 focusing on Java and JavaScipt, but enjoying Java a lot more! <br>
+🎯 focusing on Java and Spring Boot! <br>
 ✨ exploring not only back-end languages but also front-end ones (but enjoying back-end more hehe). <br>
 💗 some of my hobbies are studying, going out with my friends, skincare, gardening and fashion! <br>
 📩 e-mail: isabelamuller1@hotmail.com <br>
