@@ -3,7 +3,7 @@
 🎯 focando em Java e Spring Boot! <br> 
 ✨ explorando tanto back-end quanto front-end (mas gostando mais de back hehe). <br>
 💗 alguns dos meus hobbies são estudar, sair com meus amigos, skincare, jardinagem e moda! <br>
-📩 e-mail: isabelamuller1@hotmail.com <br>
+📩 e-mail: isabelamuller01@gmail.com <br>
 🏷 ela/dela  <br>
 <br>
 ───── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ──────────
@@ -13,7 +13,7 @@
 🎯 focusing on Java and Spring Boot! <br>
 ✨ exploring not only back-end languages but also front-end ones (but enjoying back-end more hehe). <br>
 💗 some of my hobbies are studying, going out with my friends, skincare, gardening and fashion! <br>
-📩 e-mail: isabelamuller1@hotmail.com <br>
+📩 e-mail: isabelamuller01@gmail.com <br>
 🏷 she/her  <br>
 
 # 🔗 links: 
