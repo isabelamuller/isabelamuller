@@ -22,6 +22,3 @@
 <br>
 > “The mystery of life is not a problem to solve, but a reality to experience” - Frank Herbert
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
