@@ -1,4 +1,5 @@
 # 👋🏻 oie, eu sou a Isa! 
+✨ 21 anos, gaúcha.
 📓 estudando Análise e Desenvolvimento de Sistemas na UNISINOS <br>
 🎯 focando em Java e Spring Boot! <br> 
 ✨ explorando tanto back-end quanto front-end (mas gostando mais de back hehe). <br>
@@ -9,6 +10,7 @@
 ───── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ──────────
 <br>
 # 👋🏻 hey, I'm Isa! 
+✨ 21 years old Brazilian.
 📓 studying Software Analysis and Development at UNISINOS <br>
 🎯 focusing on Java and Spring Boot! <br>
 ✨ exploring not only back-end languages but also front-end ones (but enjoying back-end more hehe). <br>
