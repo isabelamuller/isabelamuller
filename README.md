@@ -1,8 +1,7 @@
 # 👋🏻 oie, eu sou a Isa! 
 ✨ 21 anos, gaúcha. <br>
-📓 estudando Análise e Desenvolvimento de Sistemas na UNISINOS <br>
-🎯 focando em Java e Spring Boot! <br> 
-✨ explorando tanto back-end quanto front-end (mas gostando mais de back hehe). <br>
+📓 estudando Análise e Desenvolvimento de Sistemas na UNISINOS <br> 
+✨ explorando tanto back-end quanto front-end. <br>
 💗 alguns dos meus hobbies são estudar, sair com meus amigos, skincare, jardinagem e moda! <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
 🏷 ela/dela  <br>
@@ -12,7 +11,6 @@
 # 👋🏻 hey, I'm Isa! 
 ✨ 21 years old Brazilian. <br>
 📓 studying Software Analysis and Development at UNISINOS <br>
-🎯 focusing on Java and Spring Boot! <br>
 ✨ exploring not only back-end languages but also front-end ones (but enjoying back-end more hehe). <br>
 💗 some of my hobbies are studying, going out with my friends, skincare, gardening and fashion! <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
