@@ -1,7 +1,8 @@
 # 👋🏻 oie, eu sou a Isa! 
 ✨ 21 anos, gaúcha. <br>
 📓 estudando Análise e Desenvolvimento de Sistemas na UNISINOS <br> 
-✨ explorando tanto back-end quanto front-end. <br>
+📍 atualmente estágiaria de front-end na Dentsu World Services. <br>
+👩🏼‍💻 explorando tanto back-end quanto front-end. <br>
 💗 alguns dos meus hobbies são estudar, sair com meus amigos, skincare, jardinagem e moda! <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
 🏷 ela/dela  <br>
@@ -11,7 +12,8 @@
 # 👋🏻 hey, I'm Isa! 
 ✨ 21 years old Brazilian. <br>
 📓 studying Software Analysis and Development at UNISINOS <br>
-✨ exploring not only back-end languages but also front-end ones (but enjoying back-end more hehe). <br>
+📍 currently working as a front-end intern at Dentsu World Services. <br>
+👩🏼‍💻 exploring not only back-end languages but also front-end ones. <br>
 💗 some of my hobbies are studying, going out with my friends, skincare, gardening and fashion! <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
 🏷 she/her  <br>
