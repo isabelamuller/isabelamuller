@@ -4,7 +4,7 @@
 📍 currently working as a front-end intern at Dentsu World Services Brazil. <br>
 💗 some of my hobbies are studying, going out with my friends, skincare, tennis and fashion! <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
-🏷 she/her.  <br>
+🏷 she/her.  <br> <br>
 ───── ⋆⋅☆⋅⋆ ────────── ⋆⋅☆⋅⋆ ──────────
 # 🔗 links: 
 
