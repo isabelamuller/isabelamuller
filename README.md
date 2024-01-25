@@ -1,5 +1,5 @@
 # 👋🏻 hey, I'm Isa! 
-✨ 22 years old Brazilian. <br>
+✨ 22 year old Brazilian. <br>
 📓 studying Software Analysis and Development at <a href="https://github.com/unisinos">@unisinos</a> <br>
 📍 currently working as a front-end intern at Dentsu World Services Brazil. <br>
 💗 some of my hobbies include studying, going out with my friends, skincare, tennis and fashion! <br>
