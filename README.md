@@ -1,7 +1,7 @@
 # 👋🏻 hey, I'm Isa! 
 ✨ 22 year old Brazilian. <br>
 📓 studying Software Analysis and Development at <a href="https://github.com/unisinos">@unisinos</a> <br>
-📍 currently working as a front-end intern at Dentsu World Services Brazil. <br>
+📍 currently working as a front-end developer at Dentsu World Services Brazil. <br>
 💗 some of my hobbies include studying, going out with my friends, skincare, tennis and fashion! <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
 🏷 she/her. <br> <br>
