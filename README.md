@@ -1,5 +1,5 @@
 # 👋🏻 hey, I'm Isa! 
-✨ 23 year old Brazilian. <br>
+✨ 24 year old Brazilian. <br>
 📓 studying Software Analysis and Development at <a href="https://github.com/unisinos">@unisinos</a> <br>
 📍 currently working as a front-end developer at Dentsu World Services Brazil. <br>
 📩 e-mail: isabelamuller01@gmail.com <br>
